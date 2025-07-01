@@ -2,6 +2,8 @@
 
 An advanced machine learning-powered web application for predicting diamond prices with comprehensive model analysis and comparison. Features a sleek black and white themed interface built with Streamlit, offering multiple ML algorithms and detailed performance analytics.
 
+![image alt](https://github.com/Kasfia-Mostafa/DiamondPricePredictor/blob/main/Diamaond.jpg?raw=true)
+
 ## ✨ Features
 
 - **Pure Black & White Theme** with elegant monochrome design
