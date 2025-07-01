@@ -2,6 +2,8 @@
 
 A sleek black and white themed web application for predicting diamond prices using K-Nearest Neighbors (KNN) machine learning algorithm with professional UI/UX design.
 
+![image alt](https://github.com/Kasfia-Mostafa/DiamondPricePredictor/blob/main/Diamaond.jpg?raw=true)
+
 ## ✨ Features
 
 - **Pure Black & White Theme** with elegant monochrome design
