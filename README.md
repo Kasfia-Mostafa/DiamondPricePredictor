@@ -7,7 +7,7 @@
 
 A machine learning web application for predicting diamond prices with 96.55% accuracy using KNN algorithm. Features a sleek black & white interface with interactive visualizations and comprehensive model analysis.
 
-![image alt][https://github.com/Kasfia-Mostafa/DiamondPricePredictor/blob/main/Diamaond.jpg?raw=true]
+![image alt](https://github.com/Kasfia-Mostafa/DiamondPricePredictor/blob/main/Diamaond.jpg?raw=true)
 
 ## 🎯 Key Features
 
@@ -89,18 +89,6 @@ DiamondPricePredictor/
 - Mobile app development
 - API endpoints for external integrations
 - Advanced visualizations and model interpretability
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 **Built with ❤️ using Python, Scikit-learn, and Streamlit**
 
