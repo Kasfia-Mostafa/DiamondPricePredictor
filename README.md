@@ -85,6 +85,3 @@ DiamondPricePredictor/
 - API endpoints for external integrations
 - Advanced visualizations and model interpretability
 
-**Built with ❤️ using Python, Scikit-learn, and Streamlit**
-
-*Accuracy: 96.55% | Dataset: 53,940 diamonds | Updated: July 2025*
